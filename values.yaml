@@ -9,8 +9,8 @@ mailUrl: # smtp://wekan:wekan@mailserver:25
 replicaCount: 1
 
 image:
-  repository: quay.io/wekan/wekan
-  tag: "v0.92"
+  repository: wekanteam/wekan
+  tag: "v1.10"
   pullPolicy: IfNotPresent
 
 args: []
